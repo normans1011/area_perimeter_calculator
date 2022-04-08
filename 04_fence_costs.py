@@ -22,7 +22,7 @@ def num_check (question):
 
             else:
                 print(error)
-                print()
+    
         
         except ValueError:
             print(error)
